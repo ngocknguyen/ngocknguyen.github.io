@@ -9,7 +9,7 @@
 
 <div style="text-align: justify"> I wanted to predict stroke patients using 12 health factors and to identify factors that have the most influence to cause stroke on patients. The best model could be used by hospital staffs and healthcare professionals to indicate patients who are likely to have stroke and reduce the risk of sending them home.
 <br>
-I applied multiple regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. I concluded that the best model is the Random Forest model with a accuracy of 99.5%. 
+I applied multiple regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. I concluded that the best model is the Random Forest model with an accuracy of 99.5%. 
 <br>
 Models: Backward selection, Regression Tree, Random Forest
 <br>
