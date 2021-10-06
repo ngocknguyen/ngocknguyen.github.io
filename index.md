@@ -81,7 +81,7 @@ We recommended that GV should enter Australia and a course of next steps to make
 <center><img src="assets/img/GV-off.jpg"/></center>
 
 ---
-<center>© 2020 Thuy (Jennifer) Nguyen. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2021 Ngoc (Katie) Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
 
 
