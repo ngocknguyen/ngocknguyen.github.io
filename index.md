@@ -6,14 +6,14 @@
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Stroke-Prediction-Classification)
 
-<div style="text-align: justify"> I wanted to predict stroke patients using 12 health factors and to identify factors that have the most influence to cause stroke on patients. The best model could be used by hospital staffs and healthcare professionals to indicate patients who are likely to have stroke and reduce the risk of sending them home.
+<div style="text-align: justify"> According to WHO, stroke is second leading to death globally. Someone in the United States has a stroke every 40 minutes and dies of a stroke every 4 minutes. Thus, I wanted to predict stroke patients using 12 health factors and to identify factors that have the most influence to cause stroke on patients. The best model could be used by hospital staffs and healthcare professionals to indicate patients who are likely to have stroke and reduce the risk of sending them home. 
 <br>
-I applied multiple regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. I concluded that the best model is the Random Forest model with an accuracy of 99.5%. 
+I performed exploratory data analysis, and different data mining methods including logistic regression, decision tree, and random forest to the dataset to find the best prediction model. I concluded that the best model is the Random Forest model with an accuracy of 99.5%. 
 <br>
-Models: Backward selection, Regression Tree, Random Forest
+Models: Backward selection, Regression Tree, Random Forest.
 <br>
 </div>
-<center><img src="assets/img/House-Price.png"/></center>
+<center><img src="images/balanced.test.pr.png"/></center>
 
 ---
 [**Forecast I-94 Westbound Traffic Volume for MN DoT ATR Station 301**](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301)
