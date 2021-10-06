@@ -60,19 +60,6 @@ We created strategies to <br>
 </div>
 <center><img src="assets/img/image(1).jpg"/></center>
 
----
-[**Market-entry Case for Gyrfalcon Ventures - Precision Analytics in Agriculture**](https://github.com/jennifernguyen281/Market-Entry-Case-for-GV) 
-
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/file/d/18ORNgSRPGVdeJAJO22muEvYX3XhanCsH/view?usp=sharing)
-[![Model](https://img.shields.io/badge/Model-lightskyblue?logo=R)](https://github.com/jennifernguyen281/Market-Entry-Case-for-GV/blob/master/Data_analytics_PERF.R)
-
-
-<div style="text-align: justify"> 
-Our client, Gyrfalcon Ventures, wants to exploit their recently-received ownership for international rights to GAAP, a platform of cutting-edge, market-leading precision agricultural analytics technologies that can be integrated into “quad-copter” drones. However, they are not sure which market to enter, while the value of GAAP is believed to diminish rapidly due to the client’s lack of incentive to invest heavily in R&D and actively innovating competitors. <br>
-We recommended that GV should enter Australia and a course of next steps to make the most out of this opportunity in a 3-year time window. To answer the question, we analyzed 15 metrics from World Bank and other reputable sources to rank 50 countries. Some of the notable metrics are Area of Average individual farm size, GPD per capita PPP, and strictness of drone regulation.
-
-</div>
-<center><img src="assets/img/GV-off.jpg"/></center>
 
 ---
 <center>© 2021 Ngoc(Katie) Nguyen. Powered by Jekyll and the Minimal Theme.</center>
