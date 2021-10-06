@@ -2,20 +2,17 @@
 
 # Portfolio
 ---
-## Data Analytics 
 
-[**Best Model to Predict House Prices in Ames, Iowa**](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA)
+[**Stroke Prediction Classification**](https://github.com/ngocknguyen/Stroke-Prediction-Classification)
 
-[![Models](https://img.shields.io/badge/Models-lightskyblue?logo=R)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Predicting%20House%20Price.Rmd)
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/DM-Final-Report_official.pdf)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Data%20Mining%20Project%20Presentation%20-%20JAG.pdf)
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA)
+[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/ngocknguyen/Stroke-Prediction-Classification/blob/main/Stroke%20Prediction%20Project.pdf)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Stroke-Prediction-Classification)
 
-<div style="text-align: justify"> We want to predict house sale prices in Ames,IA using 80 housing features and to identify features that have the most influence on house sale price. The best model could be used by realtors and buyers to estimate price for a house with specific features that they want to sell/buy.
+<div style="text-align: justify"> I wanted to predict stroke patients using 12 health factors and to identify factors that have the most influence to cause stroke on patients. The best model could be used by hospital staffs and healthcare professionals to indicate patients who are likely to have stroke and reduce the risk of sending them home.
 <br>
-We applied 11 regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. We conclude that the best model is the Gradient Boosting model with a test MSE of 0.0173, equal to test MAPE of 14.5%. Four most important predictors are Overall material and finish quality, Above grade (ground) living area square feet, Total square feet of basement area, and Original construction date.
+I applied multiple regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. I concluded that the best model is the Random Forest model with a accuracy of 99.5%. 
 <br>
-Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regression Tree, Random Forest, Bagging, Boosting
+Models: Backward selection, Regression Tree, Random Forest
 <br>
 </div>
 <center><img src="assets/img/House-Price.png"/></center>
