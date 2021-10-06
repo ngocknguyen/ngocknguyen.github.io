@@ -27,29 +27,24 @@ Models: Backward selection, Regression Tree, Random Forest.
 <center><img src="images/positive-reviews.png"/></center>
 <center><img src="images/top-20-words.png"/></center>
 ---
-[**Activities and Financial Situations of US Tax-exempt Organizations**](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit)
+[**JP Morgan Data for Good Hackathon: New York City Public Schools **](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon)
 
-![Recommended System](https://img.shields.io/badge/PostgreSQL-Recommended_System-blue?logo=PostgreSQL)
 ![Recommended Environment](https://img.shields.io/badge/AWS-Recommended_Environment-blue?logo=AWS)
-[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Non-profit.ipynb)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Presentation.pdf)
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)]https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/Data_for_Good_Ngoc_Nguyen.ipynb
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/NYC%20Schools.pptx)
 
-<div style="text-align: justify"> This project will help us better understand the overall landscape of tax-exempt organizations in the Mid-Atlantic and Great Lakes region. The resulting database can be used as a directory to search for organizations of specific sizes, in specific locations, and with specific mission focuses, for example.<br>
-We also want to assess the financial situations of these organizations regarding profitability(income) and revenue. Financial health may disclose the quality of management and the preferences of American donors.
+<div style="text-align: justify"> We worked in a team of four members to analyze social good datasets of NYC Public schools. The purpose of this project is to  provide key findings that can enable effective investments in NYC schools, especially with those under-performing schools.
 <br> 
-We cleaned and wrangled a data set with 640k+ rows from IRS into a star schema relational database using PostgreSQL and Linux shell commands. 
+We cleaned and wrangled a dataset comprised of seven small data files using Python and Tableau. 
 <br>
 Some interesting findings: <br>
-• The most popular activities for non-profits are Religion and Education, while the least popular is Advocacy (Weapon system, Racial integration); <br>
-• Geisinger Health Plan and Chancellor Masters & Scholars of the University of Oxford are the two not-for-profits that had the highest revenue in 2018; <br>
-• February and March are the two months with the highest number of organizations that first received exempt status
+• Student Performance is strongly associated with Economic Need Index; <br>
+• Those under-performing schools often have strong correlation with Teacher Performance, School Environment, and Family Relationship;
 <br>
 </div>
-<center><img src="assets/img/Star-schema.png"/></center>
-
+<center><img src="images/Community-school-correlation.png"/></center>
+<center><img src="images/boxplot.png"/></center>
 ---
-## Consulting Projects
-
 [**Pro-bono Consulting Project with Find Green**](https://www.findgreen.co/)
 
 
