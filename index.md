@@ -4,7 +4,6 @@
 
 [**Stroke Prediction Classification**](https://github.com/ngocknguyen/Stroke-Prediction-Classification)
 
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/ngocknguyen/Stroke-Prediction-Classification/blob/main/Stroke%20Prediction%20Project.pdf)
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Stroke-Prediction-Classification)
 
 <div style="text-align: justify"> I wanted to predict stroke patients using 12 health factors and to identify factors that have the most influence to cause stroke on patients. The best model could be used by hospital staffs and healthcare professionals to indicate patients who are likely to have stroke and reduce the risk of sending them home.
