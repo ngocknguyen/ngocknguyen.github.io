@@ -29,8 +29,8 @@ Models: Backward selection, Regression Tree, Random Forest.
 ---
 [**JP Morgan Data for Good Hackathon: New York City Public Schools **](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon)
 
-![Recommended Environment](https://img.shields.io/badge/AWS-Recommended_Environment-blue?logo=AWS)
-[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)]https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/Data_for_Good_Ngoc_Nguyen.ipynb
+[!Recommended Environment](https://img.shields.io/badge/AWS-Recommended_Environment-blue?logo=AWS)
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/Data_for_Good_Ngoc_Nguyen.ipynb)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/NYC%20Schools.pptx)
 
 <div style="text-align: justify"> We worked in a team of four members to analyze social good datasets of NYC Public schools. The purpose of this project is to  provide key findings that can enable effective investments in NYC schools, especially with those under-performing schools.
