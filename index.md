@@ -37,8 +37,8 @@ Models: Backward selection, Regression Tree, Random Forest.
 We cleaned and wrangled a dataset comprised of seven small data files using Python and Tableau. 
 <br>
 Some interesting findings: <br>
-• Student Performance is strongly associated with Economic Need Index; <br>
-• Those under-performing schools often have strong correlation with Teacher Performance, School Environment, and Family Relationship;
+• Student Performance is strongly associated with Economic Need Index <br>
+• Those under-performing schools often have strong correlation with Teacher Performance, School Environment, and Family Relationship
 <br>
 </div>
 <center><img src="images/Community-school-correlation.png"/></center>
