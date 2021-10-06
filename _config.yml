@@ -1,0 +1,18 @@
+title: Ngoc Nguyen # your name (or website title) here
+
+logo: "/images/3070B2EF-FBC6-4352-84B8-63154DEE103C.jpeg?raw=true" # your photo (or logo) here
+
+description: 
+  <p align="center">
+  <a href="https://docs.google.com/document/d/1tZPB-PZxatMR7zqJQStTDAcViHhgD-d5u3JwR1fgh8Q/edit?usp=sharing">Resume</a> |
+  <a href="https://www.linkedin.com/in/ngocnguyen1996/">LinkedIn</a> |
+  <a href="https://github.com/ngocknguyen">GitHub</a>
+  </p>
+  Hi, I'm graduting soon from my BS in Business Analytics at SJSU (December 2021)
+  <br><br>
+  I am passionate about solving real-world problems using data science  
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+
