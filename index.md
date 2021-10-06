@@ -16,27 +16,15 @@ Models: Backward selection, Regression Tree, Random Forest.
 <center><img src="images/balanced.test.pr.png"/></center>
 
 ---
-[**Forecast I-94 Westbound Traffic Volume for MN DoT ATR Station 301**](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301)
+[**Women's Clothing Demand Sentiment Analysis**](https://github.com/ngocknguyen/Women-s-Clothing-Review--NLP-Sentiment-Analysis)
+[![View on GitHub](https://github.com/ngocknguyen/Women-s-Clothing-Review--NLP-Sentiment-Analysis)
 
-![Language & Tool](https://img.shields.io/badge/SAS-Language_&Tool-navy?logo=SAS)
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301/blob/master/Project%20Paper.pdf)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301/blob/master/Project%20Presentation.pdf)
 
-<div style="text-align: justify"> The purpose of this project is to model the relationship between daily traffic volume (total number of vehicles) and time as well as between daily traffic volume and different weather conditions. Study results can be used to generate strategies, such as increasing tolls on specific weekdays, to alleviate traffic jams and help reduce car emissions.
-<br>
-  
-We developed univariate deterministic & stochastic time series models and multivariate models (transfer function models). Predictors used in TF models are Average temperature, Amount of rain, and Average percentage of cloud cover. The best performing model achieves a test MAPE of 14.74.
-<br>
-Some interesting findings: <br>
-• Traffic volume is affected by the Average percentage of cloud cover; <br>
-• Friday is the busiest day of the week; <br>
-• Holidays are less busy than non-holidays
-<br>
-Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF model
+<div style="text-align: justify"> My goal on this project is to understand what customers like and dislike about their purchases. I performed text exploration to observe trends in customers' reviews, find out what is the most positive and most negative words and extract actionable plans to improve its online e-commerce
 <br>
 </div>
-<center><img src="assets/img/Final TF model forecast graph.png"/></center>
-
+<center><img src="images/positive-reviews.png"/></center>
+<center><img src="images/top-20-words.png"/></center>
 ---
 [**Activities and Financial Situations of US Tax-exempt Organizations**](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit)
 
