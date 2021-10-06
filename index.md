@@ -18,7 +18,7 @@ Models: Backward selection, Regression Tree, Random Forest.
 ---
 [**Women's Clothing Demand Sentiment Analysis**](https://github.com/ngocknguyen/Women-s-Clothing-Review--NLP-Sentiment-Analysis)
 
-[![View on GitHub](https://github.com/ngocknguyen/Women-s-Clothing-Review--NLP-Sentiment-Analysis)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Women-s-Clothing-Review--NLP-Sentiment-Analysis)
 
 
 <div style="text-align: justify"> My goal on this project is to understand what customers like and dislike about their purchases. I performed text exploration to observe trends in customers' reviews, find out what is the most positive and most negative words and extract actionable plans to improve its online e-commerce
