@@ -62,7 +62,7 @@ We created strategies to <br>
 
 
 ---
-<center>© 2021 Ngoc(Katie) Nguyen. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
 
 
