@@ -44,11 +44,11 @@ Some interesting findings: <br>
 <center><img src="images/Community-school-correlation.png"/></center>
 <center><img src="images/boxplot.png"/></center>
 ---
-[**Pro-bono Consulting Project with Find Green**](https://www.findgreen.co/)
+[**Consulting Project with IPTL**]
 
 
 [![Client_site](https://img.shields.io/badge/Find_Green_site-MEDIUMAQUAMARINE?)](https://www.findgreen.co/)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/file/d/1CNbanxgtwnVenp-fVciaAFUHV3sKiMde/view)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://docs.google.com/presentation/d/1K8fum4L2FU2cuRgLpPGCjJFtDaazhn3AUQZ2wvRumMs/edit?usp=sharing)
 
 <div style="text-align: justify"> "Find Green is a start-up enterprise with a mission of empowering consumers to shift businesses toward sustainable practices by demonstrating market demand. Find Green has created the first consumer-choice platform (like Yelp, TripAdvisor) that allows users to find, compare and rate businesses based on their sustainability." <br>
 We created strategies to <br>
