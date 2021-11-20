@@ -58,9 +58,10 @@ We created strategies to <br>
 
 
 </div>
-<center><img src="assets/img/image(1).jpg"/></center>
-
-
+<center><img src="wta_country.png"/></center>
+<center><img src="wta_upset.png"/></center>
+<center><img src="social_media.png"/></center>
+<center><img src="chosen match time.png"/></center>
 ---
 <center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
