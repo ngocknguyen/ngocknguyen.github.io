@@ -47,7 +47,7 @@ Some interesting findings: <br>
 [**Consulting Project with IPTL**]
 
 
-[![Client_site](https://img.shields.io/badge/Find_Green_site-MEDIUMAQUAMARINE?)](https://www.findgreen.co/)
+[![Client_site](https://img.shields.io/badge/IPTL_site-MEDIUMAQUAMARINE?)](https://www.findgreen.co/)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/drive/u/2/folders/1OANnPini3iMvRZ9grs9FeggbkGM7gMK9)
 
 <div style="text-align: justify"> "International Professional Tennis League (IPTL) is a start-up company dedicated to making tennis the most profitable and popular sport internationally. IPTL strives to disrupt the current tennis industry by introducing a numeric game format and marketing platform where fans can interact and engage with the sport in real-time. Rather than being focused on an individual competitive sport, IPTL fosters a community." <br>
