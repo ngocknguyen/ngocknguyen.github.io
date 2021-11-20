@@ -63,10 +63,13 @@ We conducted analyses to <br>
 <center><img src="images/chosen match time.png"/></center>
 ---
 [**Data Visualization**]
+
 <div style="text-align: justify"> Video Game Sales Dashboard <br>
-[![View on Tableau](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=Tableau)](https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard)
+[![View on Tableau](https://img.shields.io/badge/IPTL_site-MEDIUMAQUAMARINE?)]()(https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard)
+
 </div>
 <center><img src="images/VGS Dashboard.png"/></center>
+
 ---
 <center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
