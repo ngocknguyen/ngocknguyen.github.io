@@ -50,7 +50,7 @@ Some interesting findings: <br>
 [![Client_site](https://img.shields.io/badge/IPTL_site-MEDIUMAQUAMARINE?)]()
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/drive/u/2/folders/1OANnPini3iMvRZ9grs9FeggbkGM7gMK9)
 
-<div style="text-align: justify"> "International Professional Tennis League (IPTL) is a start-up company dedicated to making tennis the most profitable and popular sport internationally. IPTL strives to disrupt the current tennis industry by introducing a numeric game format and marketing platform where fans can interact and engage with the sport in real-time. Rather than being focused on an individual competitive sport, IPTL fosters a community." <br>
+<div style="text-align: justify"> International Professional Tennis League (IPTL) is a start-up company dedicated to making tennis the most profitable and popular sport internationally. IPTL strives to disrupt the current tennis industry by introducing a numeric game format and marketing platform where fans can interact and engage with the sport in real-time. Rather than being focused on an individual competitive sport, IPTL fosters a community. <br>
 We created strategies to <br>
 • Gain a deeper understanding of IPTL clients and the overall positioning of IPTL in the larger tennis industry resulting from user survey analyses and secondary market research <br>
 • Identify partnership opportunities for client via research of market of sustainable businesses and local tennis organizations <br>
@@ -58,10 +58,10 @@ We created strategies to <br>
 
 
 </div>
-<center><img src="wta_country.png"/></center>
-<center><img src="wta_upset.png"/></center>
-<center><img src="social_media.png"/></center>
-<center><img src="chosen match time.png"/></center>
+<center><img src="images/wta_country.png"/></center>
+<center><img src="images/wta_upset.png"/></center>
+<center><img src="images/social_media.png"/></center>
+<center><img src="images/chosen match time.png"/></center>
 ---
 <center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
