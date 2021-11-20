@@ -59,7 +59,6 @@ We conducted analyses to <br>
 
 </div>
 <center><img src="images/wta_country.png"/></center>
-<center><img src="images/wta_upset.png"/></center>
 <center><img src="images/social_media.png"/></center>
 <center><img src="images/chosen match time.png"/></center>
 ---
