@@ -38,7 +38,7 @@ We cleaned and wrangled a dataset comprised of seven small data files using Pyth
 <br>
 Some interesting findings: <br>
 • Student Performance is strongly associated with Economic Need Index <br>
-• Those under-performing schools often have strong correlation with Teacher Performance, School Environment, and Family Relationship
+•Those under-performing schools often have strong correlation with Teacher Performance, School Environment, and Family Relationship
 <br>
 </div>
 <center><img src="images/Community-school-correlation.png"/></center>
@@ -46,14 +46,14 @@ Some interesting findings: <br>
 ---
 [**Consulting Project with IPTL**](https://github.com/ngocknguyen/IPTL-Consulting-Project)
 
-
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/IPTL-Consulting-Project)
 [![Client_site](https://img.shields.io/badge/IPTL_site-MEDIUMAQUAMARINE?)]()
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/drive/u/2/folders/1OANnPini3iMvRZ9grs9FeggbkGM7gMK9)
 
 <div style="text-align: justify"> International Professional Tennis League (IPTL) is a start-up company dedicated to making tennis the most profitable and popular sport internationally. IPTL strives to disrupt the current tennis industry by introducing a numeric game format and marketing platform where fans can interact and engage with the sport in real-time. Rather than being focused on an individual competitive sport, IPTL fosters a community. <br>
-We created strategies to <br>
+We conducted an analyses to <br>
 • Gain a deeper understanding of IPTL clients and the overall positioning of IPTL in the larger tennis industry resulting from user survey analyses and secondary market research <br>
-• Identify partnership opportunities for client via research of market of sustainable businesses and local tennis organizations <br>
+• Identify partnership opportunities for client via research of market of local tennis clubs and organizations <br>
 • Build a marketing plan to raise awareness and further develop content strategy <br>
 
 
