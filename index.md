@@ -48,13 +48,13 @@ Some interesting findings: <br>
 
 
 [![Client_site](https://img.shields.io/badge/Find_Green_site-MEDIUMAQUAMARINE?)](https://www.findgreen.co/)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://docs.google.com/presentation/d/1K8fum4L2FU2cuRgLpPGCjJFtDaazhn3AUQZ2wvRumMs/edit?usp=sharing)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/drive/u/2/folders/1OANnPini3iMvRZ9grs9FeggbkGM7gMK9)
 
-<div style="text-align: justify"> "Find Green is a start-up enterprise with a mission of empowering consumers to shift businesses toward sustainable practices by demonstrating market demand. Find Green has created the first consumer-choice platform (like Yelp, TripAdvisor) that allows users to find, compare and rate businesses based on their sustainability." <br>
+<div style="text-align: justify"> "International Professional Tennis League (IPTL) is a start-up company dedicated to making tennis the most profitable and popular sport internationally. IPTL strives to disrupt the current tennis industry by introducing a numeric game format and marketing platform where fans can interact and engage with the sport in real-time. Rather than being focused on an individual competitive sport, IPTL fosters a community." <br>
 We created strategies to <br>
-• Increase engagement and retain current app users through data-driven incentive programs resulting from user survey analyses and secondary market research <br>
-• Identify partnership opportunities for client via research of market of sustainable businesses and green advocacy organizations <br>
-• Promote further product development <br>
+• Gain a deeper understanding of IPTL clients and the overall positioning of IPTL in the larger tennis industry resulting from user survey analyses and secondary market research <br>
+• Identify partnership opportunities for client via research of market of sustainable businesses and local tennis organizations <br>
+• Build a marketing plan to raise awareness and further develop content strategy <br>
 
 
 </div>
