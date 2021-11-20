@@ -26,6 +26,7 @@ Models: Backward selection, Regression Tree, Random Forest.
 </div>
 <center><img src="images/positive-reviews.png"/></center>
 <center><img src="images/top-20-words.png"/></center>
+
 ---
 [**JP Morgan Data for Good Hackathon: New York City Public Schools**](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon)
 
@@ -43,6 +44,7 @@ Some interesting findings: <br>
 </div>
 <center><img src="images/Community-school-correlation.png"/></center>
 <center><img src="images/boxplot.png"/></center>
+
 ---
 [**Consulting Project with IPTL**](https://github.com/ngocknguyen/IPTL-Consulting-Project)
 
@@ -61,6 +63,7 @@ We conducted analyses to <br>
 <center><img src="images/wta_country.png"/></center>
 <center><img src="images/social_media.png"/></center>
 <center><img src="images/chosen match time.png"/></center>
+
 ---
 [**Data Visualization**]
 
