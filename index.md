@@ -48,7 +48,7 @@ Some interesting findings: <br>
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/IPTL-Consulting-Project)
 [![Client_site](https://img.shields.io/badge/IPTL_site-MEDIUMAQUAMARINE?)]()
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/drive/u/2/folders/1OANnPini3iMvRZ9grs9FeggbkGM7gMK9)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://docs.google.com/presentation/d/1K8fum4L2FU2cuRgLpPGCjJFtDaazhn3AUQZ2wvRumMs/edit?usp=sharing)
 
 <div style="text-align: justify"> International Professional Tennis League (IPTL) is a start-up company dedicated to making tennis the most profitable and popular sport internationally. IPTL strives to disrupt the current tennis industry by introducing a numeric game format and marketing platform where fans can interact and engage with the sport in real-time. Rather than being focused on an individual competitive sport, IPTL fosters a community. <br>
 We conducted analyses to <br>
