@@ -68,10 +68,9 @@ We conducted analyses to <br>
 **Data Visualization**
 
 <div style="text-align: justify"> Video Game Sales Dashboard <br>
-[![Dashboard](https://img.shields.io/badge/Dashboard-salmon?)](https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard)
 
 </div>
-<center><img src="images/VGS Dashboard.png"/></center>
+[<center><img src="images/VGS Dashboard.png"/></center>](https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard)
 
 ---
 <center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
