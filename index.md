@@ -67,33 +67,6 @@ We conducted analyses to <br>
 ---
 [**Data Visualization**](https://public.tableau.com/app/profile/ngocknguyen)
 
-<html>
-<head>
-
-    <title>Video Game Sales Dashboard>
-
-    <script type="text/javascript"
-	    src="https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard"></script>
-    <script type="text/javascript"></script>
-
-</head>
-
-<body>
-
-  <h1>Add Title Here</h1>
-
-    <button id = "exportPDF">Generate PDF</button>
-    <button id = "exportImage">Generate Image</button>
-
-
-    <div id="vizContainer"></div>
-
-    <script src="./app.js"></script>
-
-</body>
-
-</html>
-
 <div style="text-align: justify"> Video Game Sales Dashboard <br>
 
 </div>
