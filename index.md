@@ -67,8 +67,6 @@ We conducted analyses to <br>
 ---
 [**Data Visualization**](https://public.tableau.com/app/profile/ngocknguyen)
 
-<div style="text-align: justify"> Video Game Sales Dashboard <br>
-<center><iframe src="https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard" width="1004" height="1269" frameborder="0"></iframe></center>
 </div>
 <center><img src="images/VGS Dashboard.png"/></center>
 
