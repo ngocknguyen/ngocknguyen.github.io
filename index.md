@@ -67,8 +67,6 @@ We conducted analyses to <br>
 ---
 [**Data Visualization**](https://public.tableau.com/app/profile/ngocknguyen)
 
-</div>
-<center><img src="images/VGS Dashboard.png"/></center>
 
 ---
 <center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
