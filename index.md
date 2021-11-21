@@ -65,12 +65,12 @@ We conducted analyses to <br>
 <center><img src="images/chosen match time.png"/></center>
 
 ---
-**Data Visualization**
+[**Data Visualization**](https://public.tableau.com/app/profile/ngocknguyen)
 
 <div style="text-align: justify"> Video Game Sales Dashboard <br>
 
 </div>
-[<center><img src="images/VGS Dashboard.png"/></center>](https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard)
+[<center><img src="images/VGS Dashboard.png"/></center>]
 
 ---
 <center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
