@@ -68,7 +68,7 @@ We conducted analyses to <br>
 **Data Visualization**
 
 <div style="text-align: justify"> Video Game Sales Dashboard <br>
-[![View on Tableau](https://img.shields.io/badge/IPTL_site-MEDIUMAQUAMARINE?)](https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard)
+[![Dashboard](https://img.shields.io/badge/Dashboard-salmon?)](https://public.tableau.com/app/profile/ngocknguyen/viz/VideoGameSalesDashboard_16206086167570/VGSDashboard)
 
 </div>
 <center><img src="images/VGS Dashboard.png"/></center>
