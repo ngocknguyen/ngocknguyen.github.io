@@ -64,8 +64,7 @@ We conducted analyses to <br>
 <center><img src="images/social_media.png"/></center>
 <center><img src="images/chosen match time.png"/></center>
 
----
-[**Data Visualization**](https://public.tableau.com/app/profile/ngocknguyen)
+
 
 
 ---
