@@ -1,6 +1,23 @@
 
 # Portfolio
 ---
+[**Mining COVID-19 Testing Data Competition 2023**](https://github.com/ngocknguyen/Mining-COVID-19-Testing-Data-Competition-2023)
+
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Mining-COVID-19-Testing-Data-Competition-2023)
+
+<div style="text-align: justify"> We mined COVID-19 testing data as a team of four members in under 8 hours. 
+<br>
+We mined COVID-19 testing data as a team of four members in under 8 hours. 
+• Addressed key patterns that explained variation in positivity rates using correlation analysis and provide
+recommendations for effective pandemic management at the university-level. 
+• Implemented future COVID positivity rate predictor using time series analysis and multiple regression algorithms (linear regression, random forest, XGboost)
+<br>
+My team placed 3rd out of 37 teams from around the country and our work was presented at the University of Illinois Data Conference.
+<br>
+</div>
+<center><img src="images/COVID-Data-Comp-Poster.jpeg"/></center>
+
+---
 [**JP Morgan Data for Good Hackathon: New York City Public Schools**](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon)
 
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/Data_for_Good_Ngoc_Nguyen.ipynb)
