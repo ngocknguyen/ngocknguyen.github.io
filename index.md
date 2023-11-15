@@ -1,7 +1,24 @@
 
 # Portfolio
 ---
+[**JP Morgan Data for Good Hackathon: New York City Public Schools**](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon)
 
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/Data_for_Good_Ngoc_Nguyen.ipynb)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/NYC%20Schools.pptx)
+
+<div style="text-align: justify"> We worked in a team of four members to analyze social good datasets of NYC Public schools. The purpose of this project is to  provide key findings that can enable effective investments in NYC schools, especially with those under-performing schools.
+<br> 
+We cleaned and wrangled a dataset comprised of seven small data files using Python and Tableau. 
+<br>
+Some interesting findings: <br>
+• Student Performance is strongly associated with Economic Need Index <br>
+•Those under-performing schools often have strong correlation with Teacher Performance, School Environment, and Family Relationship
+<br>
+</div>
+<center><img src="images/Community-school-correlation.png"/></center>
+<center><img src="images/boxplot.png"/></center>
+
+---
 [**Stroke Prediction Classification**](https://github.com/ngocknguyen/Stroke-Prediction-Classification)
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Stroke-Prediction-Classification)
@@ -28,24 +45,6 @@ Models: Backward selection, Regression Tree, Random Forest.
 <center><img src="images/top-20-words.png"/></center>
 
 ---
-[**JP Morgan Data for Good Hackathon: New York City Public Schools**](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon)
-
-[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/Data_for_Good_Ngoc_Nguyen.ipynb)
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/ngocknguyen/Data-for-Good-JP-Morgan-Hackathon/blob/main/NYC%20Schools.pptx)
-
-<div style="text-align: justify"> We worked in a team of four members to analyze social good datasets of NYC Public schools. The purpose of this project is to  provide key findings that can enable effective investments in NYC schools, especially with those under-performing schools.
-<br> 
-We cleaned and wrangled a dataset comprised of seven small data files using Python and Tableau. 
-<br>
-Some interesting findings: <br>
-• Student Performance is strongly associated with Economic Need Index <br>
-•Those under-performing schools often have strong correlation with Teacher Performance, School Environment, and Family Relationship
-<br>
-</div>
-<center><img src="images/Community-school-correlation.png"/></center>
-<center><img src="images/boxplot.png"/></center>
-
----
 [**Consulting Project with IPTL**](https://github.com/ngocknguyen/IPTL-Consulting-Project)
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/IPTL-Consulting-Project)
@@ -68,5 +67,5 @@ We conducted analyses to <br>
 
 
 ---
-<center>© 2021 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2023 Ngoc Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
