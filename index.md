@@ -5,14 +5,15 @@
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Mining-COVID-19-Testing-Data-Competition-2023)
 
-<div style="text-align: justify"> We mined COVID-19 testing data as a team of four members in under 8 hours. 
+<div style="text-align: justify"> We mined COVID-19 testing data as a team of four members in under 8 hours:
 <br>
-We mined COVID-19 testing data as a team of four members in under 8 hours. 
+<br>
 • Addressed key patterns that explained variation in positivity rates using correlation analysis and provide
-recommendations for effective pandemic management at the university-level. 
-• Implemented future COVID positivity rate predictor using time series analysis and multiple regression algorithms (linear regression, random forest, XGboost)
+recommendations for effective pandemic management at the university-level. <br>
+• Implemented future COVID positivity rate predictor using time series analysis and multiple regression algorithms (linear regression, random forest, XGboost) <br>
 <br>
 My team placed 3rd out of 37 teams from around the country and our work was presented at the University of Illinois Data Conference.
+<br>
 <br>
 </div>
 <center><img src="images/COVID-Data-Comp-Poster.jpeg"/></center>
