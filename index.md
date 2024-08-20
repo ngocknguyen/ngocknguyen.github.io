@@ -5,7 +5,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/ngocknguyen/Mining-COVID-19-Testing-Data-Competition-2023)
 
-<div style="text-align: justify"> We mined COVID-19 testing data as a team of five members:
+<div style="text-align: justify"> We mined COVID-19 testing data as a team of five members in under 24 hours: 
 <br>
 <br>
 • Addressed key patterns that explained variation in positivity rates using correlation analysis and provide
